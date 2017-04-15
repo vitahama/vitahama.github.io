@@ -2,7 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://vitahama.github.io/about/</loc>
+    <lastmod>2017-04-11T22:31:53+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vitahama.github.io/post/initial/</loc>
+    <lastmod>2017-04-11T21:49:36+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://vitahama.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vitahama.github.io/post/</loc>
+    <lastmod>2017-04-11T21:49:36+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -13,6 +29,7 @@
   
   <url>
     <loc>http://vitahama.github.io/</loc>
+    <lastmod>2017-04-11T22:31:53+09:00</lastmod>
     <priority>0</priority>
   </url>
   
