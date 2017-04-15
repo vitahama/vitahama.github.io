@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ig-note</title>
-    <link>http://vitahama.github.io/</link>
+    <link>https://vitahama.github.io/</link>
     <description>Recent content on ig-note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>Written by Yusuke Hamada</copyright>
     <lastBuildDate>Tue, 11 Apr 2017 22:31:53 +0900</lastBuildDate>
     
-	<atom:link href="http://vitahama.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vitahama.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>about</title>
-      <link>http://vitahama.github.io/about/</link>
+      <link>https://vitahama.github.io/about/</link>
       <pubDate>Tue, 11 Apr 2017 22:31:53 +0900</pubDate>
       
-      <guid>http://vitahama.github.io/about/</guid>
+      <guid>https://vitahama.github.io/about/</guid>
       <description>hugo test</description>
     </item>
     
     <item>
       <title>initial</title>
-      <link>http://vitahama.github.io/post/initial/</link>
+      <link>https://vitahama.github.io/post/initial/</link>
       <pubDate>Tue, 11 Apr 2017 21:49:36 +0900</pubDate>
       
-      <guid>http://vitahama.github.io/post/initial/</guid>
+      <guid>https://vitahama.github.io/post/initial/</guid>
       <description>I read Good to Great in January 2016. An awesome read sharing detailed analysis on how good companies become great.</description>
     </item>
     
